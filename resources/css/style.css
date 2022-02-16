@@ -20,8 +20,36 @@ body {
 /*TABLES*/
 .table--1 {
     border: 1px solid red;
+    border-collapse: collapse;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    width: 50%;
+    
+}
 
+th {
+    background-color: rgba(68, 190, 99, 0.2);
+    height: 50px;
+}
+
+tr {
+    border: 1px solid red;
+    text-align: center;
+}
+
+td {border: 1px solid red;
+    text-align: center;
+}
+.table--tag-header {
+    width: 20%;
+}
+
+.table--name-header {
+    width: 20%;
+
+}
+
+.table--description-header {
+    width: 80%;
 }
