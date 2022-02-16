@@ -11,7 +11,7 @@ body {
     font-size: 48px
 }
 
-.header--table-title {
+h2 {
     text-align: center;
     color: seagreen;
     font-size: 32px;
@@ -33,14 +33,13 @@ th {
     height: 50px;
 }
 
-tr {
+tr, td {
     border: 1px solid red;
     text-align: center;
+    padding: 10px;
 }
 
-td {border: 1px solid red;
-    text-align: center;
-}
+
 .table--tag-header {
     width: 20%;
 }
