@@ -1,0 +1,27 @@
+
+/*GLOBAL*/
+
+body {
+    font-family: Verdana, Courier, sans-serif;
+}
+
+/*HEADERS*/
+.header--title {
+    text-align: center;
+    font-size: 48px
+}
+
+.header--table-title {
+    text-align: center;
+    color: seagreen;
+    font-size: 32px;
+}
+
+/*TABLES*/
+.table--1 {
+    border: 1px solid red;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
