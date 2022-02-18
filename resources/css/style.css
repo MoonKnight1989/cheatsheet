@@ -19,7 +19,7 @@ h2 {
 
 /*TABLES*/
 .table--1 {
-    border: 1px solid red;
+    border: 1px solid black;
     border-collapse: collapse;
     text-align: center;
     margin-left: auto;
@@ -31,10 +31,11 @@ h2 {
 th {
     background-color: rgba(68, 190, 99, 0.2);
     height: 50px;
+    border: 1px solid black;
 }
 
 tr, td {
-    border: 1px solid red;
+    border: 1px solid black;
     text-align: center;
     padding: 10px;
 }
