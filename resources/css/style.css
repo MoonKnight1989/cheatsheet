@@ -53,3 +53,7 @@ tr, td {
 .table--description-header {
     width: 80%;
 }
+
+.code {
+    font-family: monospace;
+}
