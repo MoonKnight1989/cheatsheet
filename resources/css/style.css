@@ -15,6 +15,7 @@ h2 {
     text-align: center;
     color: seagreen;
     font-size: 32px;
+    padding-top: 20px;
 }
 
 /*TABLES*/
@@ -27,8 +28,6 @@ h2 {
     width: 50%;
     font-size: 18px;
     
-
-    
 }
 
 .table--2 {
@@ -37,15 +36,17 @@ h2 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
     font-size: 18px;
-   
+
 }
 
 th {
     background-color: rgba(68, 190, 99, 0.2);
     height: 50px;
     border: 1px solid black;
+    width: 15%;
+    
 }
 
 tr, td {
@@ -54,14 +55,8 @@ tr, td {
     padding: 10px;
 }
 
-
-.table--tag-header {
-    width: 15%;
-}
-
-.table--name-header {
-    width: 15%;
-
+#description-header {
+    width: 60%;
 }
 
 .table--description-header {
